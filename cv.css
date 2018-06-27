@@ -1,0 +1,36 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+} 
+p{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+
+.Titr {
+color:purple;
+font-weight: bold;
+text-decoration-line: underline;
+text-align: center;
+border: 2px;
+background-color: darkkhaki;
+}
+.par {
+
+color:black;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+}
+#petit{
+color: palevioletred;
+}
+#tito {
+    color: chocolate;
+    font-weight: bold;
+text-decoration-line: underline;
+text-align: center;
+}
+
